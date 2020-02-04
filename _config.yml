@@ -28,7 +28,7 @@ twitter_username: devonrho
 github_username:  devvrho
 
 # Build settings
-theme: minima
+theme: jekyll-swiss
 plugins:
   - jekyll-feed
 
