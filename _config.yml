@@ -29,7 +29,7 @@ github_username:  devvrho
 
 # Build settings
 theme: jekyll-swiss
-theme_color: orange
+theme_color: gray
 plugins:
   - jekyll-feed
 
